@@ -1,0 +1,29 @@
+.main{
+    background-color: #eee;
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #333;
+}
+.title h1{
+    font-weight: bold;
+
+
+}
+.img-header{
+    background-color: white;
+    margin-top:20px;
+}
+.title div{
+    
+}
+.tribute-info h3{
+    margin-top: 50px;
+}
+.tribute-info ul{
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: left;
+}
+.tribute-info p{
+    font-style: italic;
+}
